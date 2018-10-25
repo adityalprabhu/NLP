@@ -18,8 +18,6 @@ python3 lm32.py /Users/aditya1/Desktop/NLP/Assignments/Assignment1/datasets/gute
 
 You will find the 4gram count in the lm31 folder named ?dictionary4.txt??It is a Json file, you can format it and view it. 
 
-Or look at reports folder, I have generated a file of 4gram counts.
-
 Average perplexities with dataset name are printed on the console and in a file named "perplexities.txt". 
 Running this program takes a while (~20-30 seconds)
 
@@ -36,14 +34,11 @@ Example:
 python3 hmm41.py /Users/aditya1/Desktop/NLP/Assignments/Assignment1/datasets/browncopy_2018 /Users/aditya1/Desktop/NLP/Assignments/Assignment1/datasets/science_sample_copy.txt
 ?Ps: Space between folder paths exist
 
-You will find reports in the hmm4 folder.
 Word tag counts as ?word_tag_count.txt?
 Tag unigram counts as ?tag_unigram_count.txt?
 Tag bigram counts as ?tag_bigram_count.txt?
 
 Random sentences generated file as ?random_sentences.txt?
 All sentences with tags file as ?file_with_tags.txt?
-
-All these files are already generated and given in the reports folder
 
 Running this program takes a while (~20-30 min)
